@@ -1,0 +1,191 @@
+[
+  {
+    "id": "bankislami_greeting_001",
+    "source": { "type": "custom", "url": "", "page": "Greeting", "section": "Welcome" },
+    "content": {
+      "title": "Welcome greeting",
+      "text": "Welcome to BankIslami! How can I help you today?"
+    },
+    "metadata": { "language": "en", "tags": ["greeting", "welcome"] }
+  },
+  {
+    "id": "bankislami_home_001",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/", "page": "Home", "section": "Raast Instant Payment" },
+    "content": {
+      "title": "Raast Instant Payment",
+      "text": "Raast Instant Payment is presented as safe, secure, and free of cost on BankIslami’s website."
+    },
+    "metadata": { "language": "en", "tags": ["raast", "payments", "digital"] }
+  },
+  {
+    "id": "bankislami_home_002",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/", "page": "Home", "section": "Bank account for everyone" },
+    "content": {
+      "title": "Bank account for everyone",
+      "text": "BankIslami highlights account options including Islami Sahulat Account, Islami Asaan Account, and Islami Khair Current Account."
+    },
+    "metadata": { "language": "en", "tags": ["accounts", "current-account", "savings"] }
+  },
+  {
+    "id": "bankislami_home_003",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/", "page": "Home", "section": "Auto Finance" },
+    "content": {
+      "title": "Auto Finance (Diminishing Musharakah)",
+      "text": "Auto Finance is described as based on Diminishing Musharakah under a Shirkat-ul-Milk arrangement, where the bank’s share in the vehicle is represented by Musharakah units; once all units are purchased, the customer becomes the sole owner."
+    },
+    "metadata": { "language": "en", "tags": ["auto-finance", "diminishing-musharakah", "financing"] }
+  },
+  {
+    "id": "bankislami_home_004",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/", "page": "Home", "section": "Consumer Banking" },
+    "content": {
+      "title": "Consumer banking: key offerings",
+      "text": "BankIslami lists consumer banking offerings including Auto Finance (described as a combination of Musharakah, Ijarah, and Sale), Muskun Home Financing (based on Diminishing Musharakah and Ijarah), and Takaful (an alternative to insurance based on contributions to a pool)."
+    },
+    "metadata": { "language": "en", "tags": ["consumer", "home-financing", "takaful"] }
+  },
+  {
+    "id": "bankislami_home_005",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/", "page": "Home", "section": "Ways to bank" },
+    "content": {
+      "title": "Ways to bank",
+      "text": "BankIslami presents multiple channels to bank, including branches, ATMs, net banking, mobile banking, complaints, and contact options."
+    },
+    "metadata": { "language": "en", "tags": ["channels", "branches", "atms", "net-banking", "mobile-banking"] }
+  },
+  {
+    "id": "bankislami_home_006",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/", "page": "Home", "section": "Debit Cards" },
+    "content": {
+      "title": "BankIslami Debit Cards",
+      "text": "BankIslami states its debit cards are accepted at over 50,000 merchants and over 14,000 ATMs nationwide in Pakistan, and at millions of merchant locations and ATMs globally."
+    },
+    "metadata": { "language": "en", "tags": ["debit-cards", "payments", "atms"] }
+  },
+  {
+    "id": "bankislami_home_007",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/", "page": "Home", "section": "Agri Financing" },
+    "content": {
+      "title": "Agri Financing: Tractor Finance",
+      "text": "BankIslami describes offering Islami Tractor Finance under the Prime Minister’s Kamyab Jawan Program for farmers, using an Islamic mode of financing under Diminishing Musharakah to purchase new tractors on subsidized rates."
+    },
+    "metadata": { "language": "en", "tags": ["agri-financing", "tractor-finance", "diminishing-musharakah"] }
+  },
+  {
+    "id": "bankislami_digital_001",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/digital-channel/digital-banking/", "page": "Digital Banking", "section": "Mobile App overview" },
+    "content": {
+      "title": "BankIslami Mobile App overview",
+      "text": "BankIslami describes its mobile app as a quick, hassle-free banking experience with a user-friendly interface, allowing users to log in or register for a secure and fast experience."
+    },
+    "metadata": { "language": "en", "tags": ["mobile-app", "digital-banking"] }
+  },
+  {
+    "id": "bankislami_digital_002",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/digital-channel/digital-banking/", "page": "Digital Banking", "section": "Security enhancements" },
+    "content": {
+      "title": "Mobile app security enhancements",
+      "text": "The site mentions security enhancements to protect user data, including special password protection and advanced measures such as mobile app root detection."
+    },
+    "metadata": { "language": "en", "tags": ["security", "root-detection", "mobile-app"] }
+  },
+  {
+    "id": "bankislami_digital_003",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/digital-channel/digital-banking/", "page": "Digital Banking", "section": "Key features" },
+    "content": {
+      "title": "Mobile app key features",
+      "text": "Listed features include card transaction history, Raast P2M (payment to merchant), instant fund transfer, device management (primary/secondary device), account management (register/delete), and iOS Face ID support."
+    },
+    "metadata": { "language": "en", "tags": ["features", "raast", "fund-transfer", "face-id"] }
+  },
+  {
+    "id": "bankislami_online_001",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/digital-channel/online-banking/", "page": "Online Banking", "section": "Branch network connectivity" },
+    "content": {
+      "title": "Online banking via connected branch network",
+      "text": "BankIslami says it has 500+ branches in 210+ cities providing online banking services, with branches connected to enable instant access to accounts and transactions from any BankIslami branch."
+    },
+    "metadata": { "language": "en", "tags": ["online-banking", "branches", "network"] }
+  },
+  {
+    "id": "bankislami_online_002",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/digital-channel/online-banking/", "page": "Online Banking", "section": "Key benefits" },
+    "content": {
+      "title": "Online branch network: key benefits",
+      "text": "Key benefits listed include cash deposit for immediate credit to a remote branch, remote cheque encashment, instant funds transfer between branches, and balance enquiry/statement of account from any online branch."
+    },
+    "metadata": { "language": "en", "tags": ["benefits", "cash-deposit", "fund-transfer", "statements"] }
+  },
+  {
+    "id": "bankislami_online_003",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/digital-channel/online-banking/", "page": "Online Banking", "section": "e-Statement" },
+    "content": {
+      "title": "e-Statement service",
+      "text": "e-Statement is described as a facility for viewing statements when needed, reducing paper filing, and providing worldwide access to banking transaction information. Registration steps include calling 021-111-ISLAMI (475264), speaking to a phone banking officer, requesting activation, specifying account and statement frequency."
+    },
+    "metadata": { "language": "en", "tags": ["e-statement", "phone-banking", "statements"] }
+  },
+  {
+    "id": "bankislami_careers_001",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/careers/", "page": "Careers", "section": "Why choose BankIslami" },
+    "content": {
+      "title": "Careers: purpose and scale",
+      "text": "BankIslami positions careers as purpose-driven and mentions nationwide presence with a team of 8,000+ people, focused on delivering Shariah-compliant financial solutions."
+    },
+    "metadata": { "language": "en", "tags": ["careers", "culture", "shariah-compliant"] }
+  },
+  {
+    "id": "bankislami_careers_002",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/careers/", "page": "Careers", "section": "Vision and mission" },
+    "content": {
+      "title": "Careers: vision and mission statements",
+      "text": "Vision: promoting global economic prosperity based on the Islamic financial system. Mission: saving humanity from Riba by offering Shariah-compliant, customer-centric, innovative financial solutions and creating value for stakeholders while upholding social responsibility and transparency."
+    },
+    "metadata": { "language": "en", "tags": ["mission", "vision", "values"] }
+  },
+  {
+    "id": "bankislami_careers_003",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/careers/", "page": "Careers", "section": "Benefits" },
+    "content": {
+      "title": "Careers: benefits of joining",
+      "text": "Benefits listed include competitive salaries/benefits/incentives, medical coverage for employees/dependents/parents, life & health insurance, education scholarships, car & home financing, Hajj balloting, gratuity & provident fund, and career pathways."
+    },
+    "metadata": { "language": "en", "tags": ["benefits", "hr", "employee"] }
+  },
+  {
+    "id": "bankislami_contact_001",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/contact-us/", "page": "Contact Us", "section": "Digital Delivery Services" },
+    "content": {
+      "title": "Digital Delivery Services: Card Production Unit contacts",
+      "text": "The Contact Us page lists Digital Delivery Services contacts for the DDC Card Production Unit, including role titles, email addresses, phone number (111-BIP(247)-111) with extensions, and a Karachi location in Gulshan-e-Iqbal (KDA Scheme #24)."
+    },
+    "metadata": { "language": "en", "tags": ["contact", "ddc", "cards"] }
+  },
+  {
+    "id": "bankislami_contact_002",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/contact-us/", "page": "Contact Us", "section": "Whistleblowing" },
+    "content": {
+      "title": "Whistleblowing channel",
+      "text": "The page mentions a whistleblowing channel encouraging employees and customers to report concerns via email to the whistle blowing function managed by senior management."
+    },
+    "metadata": { "language": "en", "tags": ["whistleblowing", "ethics", "governance"] }
+  },
+  {
+    "id": "bankislami_customer_care_001",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/customer-care/", "page": "Customer Care", "section": "Complaints email" },
+    "content": {
+      "title": "Customer care complaints",
+      "text": "The Customer Care page includes a complaints email address for lodging complaints."
+    },
+    "metadata": { "language": "en", "tags": ["customer-care", "complaints", "support"] }
+  },
+  {
+    "id": "bankislami_home_office_001",
+    "source": { "type": "website", "url": "https://bankislami.com.pk/", "page": "Home", "section": "Registered / Head Office" },
+    "content": {
+      "title": "Registered / Head Office (Karachi)",
+      "text": "Registered/Head Office is listed as 11th Floor, Executive Tower, Dolmen City, Marine Drive, Block-4, Clifton, Karachi, with phone numbers including 021-111 475 264 and 021-32410135."
+    },
+    "metadata": { "language": "en", "tags": ["head-office", "contact", "karachi"] }
+  }
+]
